@@ -11,4 +11,4 @@ How To Videos:
 
 You Tube Example of AI Historical Figures to Life
 
-<iframe width="560" height="325" src="https://youtube.com/shorts/evVKXG4stVs?si=H6GHSKrH60YdRqks" title="YouTube video player" frameborder="0" allow="accelerometer;autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yq0QkCxoTHM?si=W-qlKWrDuCrsVgMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
