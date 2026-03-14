@@ -1,3 +1,9 @@
+---
+layout: post
+author: Michael Solis
+tags: [cscc]
+---
+
 AI and Emerging Technologies
 
 
