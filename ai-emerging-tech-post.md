@@ -4,7 +4,7 @@ author: Michael Solis
 tags: [cscc]
 ---
 
-AI and Emerging Technologies
+### AI and Emerging Technologies
 
 
 What emerging Technology did you choose? How is AI Being used to support this technology?
