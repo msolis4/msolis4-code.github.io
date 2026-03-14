@@ -16,3 +16,7 @@ project_entries:
   - title: Template 2
     url: template-2-post
     desc: This is an example project, template 2
+
+  - title: AI and Emerging Technologies
+    url: ai-emerging-tech-post
+    desc: This a review of AI and Emerging Technologies for Financial Institutions Data Operations.
