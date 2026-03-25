@@ -14,6 +14,6 @@ project_entries:
     url: ai-emerging-tech-post
     desc: This a review of AI and Emerging Technologies for Financial Institutions Data Operations.
 
-    - title: Machine Learning
-    url:machine-learning-post
+  - title: Machine Learning
+    url: machine-learning-post
     desc: Explain two of the seven concepts of machine learning.
