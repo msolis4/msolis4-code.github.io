@@ -9,14 +9,11 @@ navbar_entries:
     url: https://github.com/
 
 project_entries:
-  - title: Template 1
-    url: template-1-post
-    desc: This is an example project, template 1
-
-  - title: Template 2
-    url: template-2-post
-    desc: This is an example project, template 2
 
   - title: AI and Emerging Technologies
     url: ai-emerging-tech-post
     desc: This a review of AI and Emerging Technologies for Financial Institutions Data Operations.
+
+    - title: Machine Learning
+    url:machine-learning-post
+    desc: Explain two of the seven concepts of machine learning.
