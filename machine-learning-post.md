@@ -11,6 +11,7 @@ There are seven steps in maching learning and will focus on : preparing data and
 <img width="432" height="259" alt="image" src="https://github.com/user-attachments/assets/aa0f10ed-8aa7-44cc-9d8a-82bfef412efe" />
 
 
+
 Preparing the data:
 
 Before gathering the data, one must first plan and formulate the problem that need to be solved with marching learning model.  Once the problem is understood then determine the data that must be collected to start training the model.   Once should ensure their enough data that can encompass all the various solutions to that are present in the problem.  Once cannot obtain too much data but must ensure the data is of quality.  Famous phase that is heard and must be avoided: Garbage in garbage out.  Like training children, you label data that is recognizable and features that are recognizable to help with learning patterns.  To ensure the label is correct, multiple people should review and help fine tune the label data.  Sometimes too much data can have a negative impact and it makes sense to reduce and cleanse the data.
