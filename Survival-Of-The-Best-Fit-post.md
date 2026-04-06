@@ -24,4 +24,4 @@ I would advise the using Machine Learning models to help improve time consuming 
 
 
 Reference:
-Survival of the Best Fit game,  https://www.survivalofthebestfit.com/resources
+[Survival of the Best Fit game](https://www.survivalofthebestfit.com/resources),  https://www.survivalofthebestfit.com/resources
