@@ -16,7 +16,7 @@ What previous solutions were being used in place of AI? How has AI replaced or w
 
 Today their teams of people that read the reporting guidelines and definition to understand to data and formulas to use to report the data.  There are teams of data analysis to map the data back to business units, applications, tables and fields in data warehouse to determine if the data is being captured and available in the data warehouse to send to the reporting application that produce the report to be filed to the Federal Reserve Board.  This process can take up to 6 months and very dependent on subject matter expects.  I feel AI would be able to quickly provide within minutes the impacted applications and determine if the data is available in the data warehouse and provide the details and formula to use for reporting the data.   AI would extremely cut down the  time it takes to starting reporting the data to the FRB.
 
-Reference:
+References:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eA-1RFov-tY?si=7pFTxPJULpegRKlZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
