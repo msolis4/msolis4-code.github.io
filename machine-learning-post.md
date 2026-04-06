@@ -24,4 +24,5 @@ Before starting to train the AI model, first break down the testing to multiple 
 Reference
 
 Video: How is data prepared for machine learning?  [https://youtu.be/P8ERBy91Y90?si=RsrG0cFrazZz5q8l](https://youtu.be/P8ERBy91Y90?si=RsrG0cFrazZz5q8l)
+
 Video: Training Your Own AI Model Is Not As Hard As You (Probably) Think [https://youtu.be/fCUkvL0mbxI?si=bChkpdqeS1bVW044](https://youtu.be/fCUkvL0mbxI?si=bChkpdqeS1bVW044)
