@@ -4,7 +4,7 @@ author: Michael Solis
 tags: [cscc]
 ---
 
-### Machine Learnng Model
+### Machine Learning Model
 
 ### a.	Describe how Teachable Machine uses machine learning to come up with solutions to an arbitrary problem.
 
