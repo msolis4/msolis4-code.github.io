@@ -19,7 +19,7 @@ project_entries:
     desc: Explain two of the seven concepts of machine learning.
 
   - title: Machine Learning Model
-    url: Machine-Learning-Model post
+    url: Machine-Learning-Model-post
     desc: Simple review of teaching a Machine Learning Model.
     
   - title: Large Language Model
