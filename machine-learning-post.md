@@ -21,7 +21,7 @@ Training the model:
 Before starting to train the AI model, first break down the testing to multiple testing scenarios.  See how many test scenarios can be done with coding and the scenarios that cannot then AI models should be used.  After identifying the model to use, obtain the prepared data and start inputting the data through the model to start the training. Review the results and identify the results that aren’t expected and review the prepared data to identify inaccurate data that needs corrected or identify if any data is missing that may be contributing to the inaccurate results.to continue the training to obtain the results expecting.   Repeat the process until the expected results area achieved. 
 
 
-Reference
+References:
 
 Video: How is data prepared for machine learning?  [https://youtu.be/P8ERBy91Y90?si=RsrG0cFrazZz5q8l](https://youtu.be/P8ERBy91Y90?si=RsrG0cFrazZz5q8l)
 
