@@ -17,3 +17,7 @@ project_entries:
   - title: Machine Learning
     url: machine-learning-post
     desc: Explain two of the seven concepts of machine learning.
+
+  - title: Large Language Model
+    url: large-language-model-post
+    desc: Provides a summary of using a Large Language Model (LLM) to summarize a book.
