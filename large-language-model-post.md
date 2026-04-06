@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Student
+author: Michael Solis
 tags: [cscc]
 ---
 
