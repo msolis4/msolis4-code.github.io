@@ -21,3 +21,7 @@ project_entries:
   - title: Large Language Model
     url: large-language-model-post
     desc: Provides a summary of using a Large Language Model (LLM) to summarize a book.
+
+  - title: Survival Of The Best Fit Learning
+    url: Survival-Of-The-Best-Fit-post
+    desc: Reviews a LLM game in hiring employees and the ethical issues experience in the game.
