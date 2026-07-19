@@ -5,3 +5,9 @@ tags: [cscc]
 ---
 
 ### Intro to Maching Learning II, Final Project
+
+PowerPoint presentation:
+
+## Presentation
+
+https://drive.google.com/file/d/1EyaXbpMHrTokKzWJ7O9mcD4VVbesnKMx/view?usp=sharing
