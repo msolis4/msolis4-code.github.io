@@ -31,5 +31,5 @@ project_entries:
     desc: Reviews a LLM game in hiring employees and the ethical issues experience in the game.
 
  - title: Intro Machine Learning II, Final Project
-    url: machine-learning-images-project
+    url: machine-learning-images-project-post
     desc: Final Project on advance Machine Learning usig images.    
