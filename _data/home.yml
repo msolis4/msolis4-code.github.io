@@ -29,3 +29,7 @@ project_entries:
   - title: Survival Of The Best Fit Learning
     url: Survival-Of-The-Best-Fit-post
     desc: Reviews a LLM game in hiring employees and the ethical issues experience in the game.
+
+ - title: Intro Machine Learning II, Final Project
+    url: machine-learning-images-project
+    desc: Final Project on advance Machine Learning usig images.    
