@@ -33,3 +33,7 @@ project_entries:
   - title: Intro Machine Learning II, Final Project
     url: machine-learning-images-project-post
     desc: Final Project on advance Machine Learning usig images.    
+
+  - title: Final Project - Chat bot
+    url: final-project-post
+    desc: Final Project Movie Chat Bot.  
